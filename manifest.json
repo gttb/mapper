@@ -1,7 +1,7 @@
 {
   "name": "mapper",
   "description": "Attributes mapping",
-  "author": "Andrew",
+  "author": "Andrew Kozachenko",
   "version": "0.0.1",
   "license": "Apache 2",
   "isSystem": false,
