@@ -1,0 +1,14 @@
+{
+  "name": "mapper",
+  "description": "Attributes mapping",
+  "author": "Andrew",
+  "version": "0.0.1",
+  "license": "Apache 2",
+  "isSystem": false,
+  "contributors": [],
+  "controllers": {
+    "/email_map": "controllers/email_map.js"
+  },
+  "setup": "scripts/setup.js",
+  "teardown": "scripts/teardown.js"
+}
